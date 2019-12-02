@@ -17,3 +17,6 @@ ipython_config.py
 
 # End of https://www.gitignore.io/api/jupyternotebooks
 
+# Don't publish AoC's inputs
+# https://www.reddit.com/r/adventofcode/comments/7lesj5/is_it_kosher_to_share_puzzle_inputs_and_answers/
+inputs/
